@@ -1,7 +1,7 @@
 H1 What will be the result and why?
 ---
 
-[Decesions of exercises](https://github.com/AraAnahit/Type_Conversion_Homewrok_7.git)
+[Decesions of exercises](https://github.com/AraAnahit/Type_Conversion_Homewrok_7/blob/Type_Conversion/Type_conversion.js)
 1. "" + 1 + 0
 2. "" - 1 + 0
 3. true + false
